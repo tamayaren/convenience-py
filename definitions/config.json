@@ -1,0 +1,9 @@
+{
+  "resolution": "480x600",
+  "inner-window": {
+    "margin": {
+      "x": "5",
+      "y": "5"
+    }
+  }
+}
